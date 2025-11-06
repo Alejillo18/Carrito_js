@@ -1,0 +1,23 @@
+.card-img-top {
+    height: 250px;
+    width: 100%;
+    object-fit: contain;
+    background-color: #f8f9fa;
+  }
+  
+  #seccion-carrito {
+    max-height: 70vh;
+    overflow-y: auto;
+    padding-right: 10px;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    padding: 15px;
+  }
+  
+  body {
+    background-color: #fdfdfd;
+  }
+  
+  #carrito .sticky-top {
+    padding-bottom: 20px; 
+  }
